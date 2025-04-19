@@ -1,0 +1,6 @@
+customer_id,name,email,signup_date,phone
+1,John Smith,"johnsmith@gmail,com",2023/01/01,123-456-7890
+2,jane doe,janedoe@GMAIL.COM,2023-13-45,
+3,,--,2023-02-15,(555)1234567
+4,Anna Lee,annalee@domain.com,2023-03-10,555.123.6789
+5,John Smith,johnsmith@gmail.com,2023-01-01,123-456-7890
